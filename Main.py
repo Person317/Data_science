@@ -16,3 +16,4 @@ print("-------------------------")
 print(df.duplicated().sum())
 
 
+y = np.array(["Argintina"])
